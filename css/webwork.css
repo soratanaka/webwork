@@ -1,0 +1,52 @@
+body {
+  background-color: aquamarine;
+  height: 100%;
+  margin: 40px;
+  padding: 0;
+  text-align: center;
+}
+
+header{
+  height: auto;
+  width: 300px;
+}
+
+.neko{
+  display: block;
+  width: 200px;
+  height: 200px;
+  margin-left: 50%;
+  margin-right: 50%;
+}
+
+h1{
+  margin: 0%;
+  padding: 0%;
+}
+
+.contact tr{
+  height: 7rem;
+}
+
+.contact th{
+  width: 150px;
+  text-align: right;
+}
+
+.contact td{
+  padding-left: 10px;
+}
+.sub-buttom{
+  margin-right: 70%;
+}
+
+.bottomconf{
+  width: 300px;
+  margin: 10px 10px;
+  color: white;
+  font-size: 3rem;
+}
+
+.sub-buttom :hover{
+  opacity: 0.5;
+}
